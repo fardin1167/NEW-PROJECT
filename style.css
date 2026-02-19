@@ -1,0 +1,11 @@
+h1{
+    background-color: palegoldenrod;
+    text-align: center;
+    text-decoration: underline;
+    margin: 12px;
+}
+p{
+    background-color: pink;
+    text-transform: capitalize;
+    /* text-shadow: 0cqmax; */
+}
